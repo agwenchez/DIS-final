@@ -67,7 +67,7 @@ a, .site-btn{
 a:hover,
 a:active,
 a:focus {
-    color: inherit;
+    color: blue;
     outline: none !important;
     text-decoration: none;
 }
@@ -92,9 +92,7 @@ h1,h2,h3,h4,h5,h6, .navbar-brand, .gallery-list .nav-tabs{
 .bgcolor-blue{
     background: rgb(0, 109, 185);;
 }
-.bgcolor-red{
-    background: #e2001a;
-}
+
 .no-padding{
     padding: 0;
 }
@@ -333,7 +331,12 @@ h1,h2,h3,h4,h5,h6, .navbar-brand, .gallery-list .nav-tabs{
   position: relative;
   background-color: white;
 }
-
+/* video link mathafacka!!!!!! */
+.video{
+    display: inline-block;
+    margin-left:auto;
+    margin-right:auto;
+    }
 .caption {
   position: absolute;
   bottom: 5px;
