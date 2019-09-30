@@ -117,17 +117,20 @@ License URI: http://www.themevault.net/license/
         background-color: #fff;
     }
     .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-        background-color: blue;
-        border-color: blue;
+        background-color: #2376ae;
+        border-color: #2376ae;
     }
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-        background: #1f1b18 none repeat scroll 0 0;
+        background:#2376ae none repeat scroll 0 0;
         border-color: transparent;
         box-shadow: none;
+        
        
     }
     .navbar-default .navbar-nav > li > a {
         text-align: center;
+        margin-top:60px;
+        
     }
     .block-heading h2, .about-details h3 {
         font-size: 26px;
